@@ -18,3 +18,18 @@ Use this command to open it.
 jupyter notebook
 ```
 
+## Pandas
+
+### Installation
+
+```
+pip install pandas
+```
+
+### Usage
+
+```py
+import pandas as pd
+
+# Python codes come here
+```
