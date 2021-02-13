@@ -1,5 +1,12 @@
 # Data analysis
 
+## Useful links
+
+- [Python org](https://www.python.org/)
+- [Pandas documentation](https://pandas.pydata.org/docs/index.html#)
+- [Numpy](https://numpy.org/)
+- [Jupyter](https://jupyter.org)
+
 ## Jupyter notebook
 
 ### Installation
